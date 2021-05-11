@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "CryptocurrencyAppClone",
+    "slug": "CryptocurrencyAppClone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash/playstore.png",
+    "splash": {
+      "image": "./assets/splash/and_launch_screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash/ic_launcher.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}
