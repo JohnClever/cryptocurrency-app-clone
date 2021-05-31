@@ -22,4 +22,4 @@ const CurrencyLabel = ({ icon, currency, code }) => {
 	);
 };
 
-export default currencyLabel;
+export default CurrencyLabel;
