@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Image, Text } from 'react-native';
 import { COLORS, SIZES, FONTS } from '../constants';
 
-const currencyLabel = ({ icon, currency, code }) => {
+const CurrencyLabel = ({ icon, currency, code }) => {
 	return (
 		<View style={{ flexDirection: 'row' }}>
 			<Image
